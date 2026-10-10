@@ -1,6 +1,4 @@
-Kişisel Verilerin Korunması - sahibinden.com
-
-Kişisel Verilerin Korunması ve İşlenmesi Hakkında Aydınlatma Metni
+ Kişisel Verilerin Korunması ve İşlenmesi Hakkında Aydınlatma Metni
 
 İşbu Kişisel Verilerin Korunması ve İşlenmesi Hakkında Aydınlatma Metni’nin (“Aydınlatma Metni”) amacı, Sahibinden Bilgi Teknolojileri Pazarlama ve Ticaret Anonim Şirketi (“Sahibinden” veya ”Şirketimiz”) tarafından yönetilmekte olan https://www.sahibinden.com/  adresinde yer alan internet sitesinin ve Sahibinden’in mobil uygulamasının, (“Portal”) kullanımı sırasında bireysel ve kurumsal kullanıcılarından ve/veya Portal’ı kullanan diğer üçüncü kişilerden (“Kullanıcı” ve/veya “Kullanıcılar”) elde edilen kişisel verilerin kullanımına ilişkin olarak 6698 sayılı Kişisel Verilerin Korunması Hakkında Kanun’un (“Kişisel Verilerin Korunması Kanunu”) 10. maddesi ile getirilen aydınlatma yükümlülüğünün yerine getirilmesidir.
 
@@ -20,11 +18,11 @@ Sahibinden, aşağıda belirtilen yöntemlerle Kullanıcılar’dan çeşitli ki
 
 Kimlik ve İletişim Bilgileri: Ad, soyadı, cep telefonu, ev telefonu, iş telefonu, adresi, e-posta adresi, fatura bilgileri, T.C. kimlik numarası (ulusal kimlik numarası), kimlik ön yüzü fotokopisi.
 
-Kimlik Doğrulama Bilgileri: Kullanıcıların ad, soyadları, doğum tarihi bilgileri, T.C. kimlik numaraları (ulusal kimlik numaraları), hesap bilgileri, kimliği doğrulamak için ve hesaba erişimi sağlamak için kullanılan parolaları, Kullanıcı Adı, , Kullanıcı numaraları, ilan numaraları, nüfus cüzdanı ön yüzü bilgileri, yeni kimlik ön yüzü bilgileri, yeni ehliyet ön yüzü bilgileri, kullanıcı selfie (özçekim) videosu, kimlik hologram videosu, fatura bilgileri, yerleşim yeri belgesi, Kullanıcı’nın e-devlet doğrulaması yapıp yapmadığı verisi, E-devlet tarafından kullanıcılara temin edilen tanımlayıcı numara (GUID-Globally Unique Identifier Number).
+Kimlik Doğrulama Bilgileri: Kullanıcıların ad, soyadları, doğum tarihi bilgileri, T.C. kimlik numaraları (ulusal kimlik numaraları), hesap bilgileri, kimliği doğrulamak için ve hesaba erişimi sağlamak için kullanılan parolaları, Kullanıcı Adı, , Kullanıcı numaraları, ilan numaraları, nüfus cüzdanı ön yüzü bilgileri, yeni kimlik ön yüzü bilgileri, yeni ehliyet ön yüzü bilgileri, Kullanıcı’nın e-Devlet doğrulaması yapıp yapmadığı verisi, e-Devlet tarafından kullanıcılara temin edilen tanımlayıcı numara (GUID-Globally Unique Identifier Number).
 
 İşlem Güvenliği Bilgileri: Kullanıcı’nın hesap bilgileri, Kullanıcı’nın cep telefonu ve e-posta verileri, Kullanıcı’nın doğrulamak için ve hesaba erişimi sağlamak için kullanılan parolaları, Kullanıcı’nın 2 aşamalı doğrulama özelliğini açıp açmadığı, Kullanıcı’nın kurtarma e-posta verisi ve kurtarma işlemi yapıp yapmadığı, Kullanıcı’nın aktif oturumlar ve güvenilir cihazları.
 
-Müşteri İşlem Verileri: Kullanıcı’nın hesap bilgileri, ad ve soyadı verileri, Kullanıcı adı, Kullanıcı koymayı tercih ederse profil fotoğrafı, Kullanıcı numarası, Kullanıcı’nın hesap açılış esnasında yetki belgesi dair sağladığı belgelerdeki kişisel veriler, Kullanıcı’nın kurumsal kullanıcı olması durumunda ilgili tüzel kişi ile bağlantılı kişisel veriler, Kullanıcı’nın alt kullanıcı olması durumunda çalıştığı mağaza ile bağlantılı kişisel veriler, hesap tarihçesi, Kullanıcı’nın Portal’da ilan vermesi durumunda ilgili kategori bazında yayında ve yayında olmayan ilan bilgileri, ilana konu ürünün özellikleri ve durumu, Kullanıcı’nın Portal’da ilan vermesi durumunda ilgili kategoriye göre ürünün markanın sahte olmadığına dair talep edilen belgeler (fatura, garanti belgesi vs), ürünün kişiye ait olduğunu ya da ürün üzerindeki yetkisini gösteren belgeler (tapu, ruhsat, marka tescil belgesi, yetkilendirme sözleşmesinin ilgili kısımları), ilanın reddedilmesi durumunda red nedenleri, varsa kayıtlı kart bilgileri ve hesap hareketleri, varsa engellenen hesap bilgileri, Kullanıcı’nın izin bilgileri (bildirim tercihleri, elektronik ileti, okundu bilgisi), varsa Kullanıcı’nın favori ilanları, favori aramaları ve favori satıcıları, Kullanıcı’nın S-Param Güvende kullanması durumunda alım işlemleri, satış işlemleri, yorum yönetimi, teslimat / fatura adresleri, banka bilgileri, merkez adresi, Kullanıcı’nın Güvenli e-Ticaret kullanması durumunda siparişleri, satış işlemleri, teslimat ve fatura adresleri, yorum yönetimi, gerekmesi durumunda Kullanıcılar’ın ceza bedelini ödeme süreçlerine ilişkin verileri ve Kullanıcılar tarafından sunulan gerekçeler, Kullanıcılar’ın tercihi doğrultusunda Sigorta Birliği ve Gözetim Merkezi sistemi tarafından üretilen hasar sorgu raporunun alınması durumunda ilgili aracın şasi  ve plaka numarası, Kullanıcı’nın doping kullanması durumunda doping sürecine ilişkin veriler, Bankadan Emlak ürününün kullanılması durumunda ilgili bankanın unvanı, paket tipi, ödeme tipi, fatura bilgileri, iletişim bilgileri (adres ve ilan detayda yer alan iletişim alanındaki veriler), mağaza bilgileri, emlak projeleri kapsamında bilgi formunu dolduran Kullanıcı’nın adı, soyadı, cep telefonu, ilgilendiği proje, bilgi talep tarih, kapsam ve durumu, anket ve/veya banner yönlendirme modüllerinin Kullanıcılar tarafından kullanılması durumunda modül üzerinden Kullanıcılar’ın ilgili ürüne yönlenebilmeleri ve ürün tedarikçisi firmaların kullanıcı ile iletişime geçmesi için ilgili anket veya banner’da belirtilen veriler.
+Müşteri İşlem Verileri: Kullanıcı’nın hesap bilgileri, ad ve soyadı verileri, Kullanıcı adı, Kullanıcı koymayı tercih ederse profil fotoğrafı, Kullanıcı numarası, Kullanıcının hesap açılışı ve/veya diğer süreçlerde sunduğu yetki belgesi ile bu belgelerde yer alan kişisel veriler, yerleşim yeri belgesi, Kullanıcı’nın kurumsal kullanıcı olması durumunda ilgili tüzel kişi ile bağlantılı kişisel veriler, Kullanıcı’nın alt kullanıcı olması durumunda çalıştığı mağaza ile bağlantılı kişisel veriler, hesap tarihçesi, Kullanıcı’nın Portal’da ilan vermesi durumunda ilgili kategori bazında yayında ve yayında olmayan ilan bilgileri, ilana ilişkin teknik tanımlayıcı bilgiler, ilana konu ürünün özellikleri ve durumu, Kullanıcı’nın Portal’da ilan vermesi durumunda ilgili kategoriye göre ürünün markanın sahte olmadığına dair talep edilen belgeler (fatura, garanti belgesi vs), ürünün kişiye ait olduğunu ya da ürün üzerindeki yetkisini gösteren belgeler (tapu, ruhsat, marka tescil belgesi, yetkilendirme sözleşmesinin ilgili kısımları), ilanın reddedilmesi durumunda red nedenleri, varsa kayıtlı kart bilgileri ve hesap hareketleri, varsa engellenen hesap bilgileri, Kullanıcı’nın izin bilgileri (bildirim tercihleri, elektronik ileti, okundu bilgisi), varsa Kullanıcı’nın favori ilanları, favori aramaları ve favori satıcıları, Kullanıcı’nın S-Param Güvende kullanması durumunda alım işlemleri, satış işlemleri, yorum yönetimi, teslimat / fatura adresleri, banka bilgileri, merkez adresi, Kullanıcı’nın Güvenli e-Ticaret kullanması durumunda siparişleri, satış işlemleri, teslimat ve fatura adresleri, yorum yönetimi, gerekmesi durumunda Kullanıcılar’ın ceza bedelini ödeme süreçlerine ilişkin verileri ve Kullanıcılar tarafından sunulan gerekçeler, Kullanıcılar’ın tercihi doğrultusunda Sigorta Birliği ve Gözetim Merkezi sistemi tarafından üretilen hasar sorgu raporunun alınması durumunda ilgili aracın şasi  ve plaka numarası, Kullanıcı’nın doping kullanması durumunda doping sürecine ilişkin veriler, Bankadan Emlak ürününün kullanılması durumunda ilgili bankanın unvanı, paket tipi, ödeme tipi, fatura bilgileri, iletişim bilgileri (adres ve ilan detayda yer alan iletişim alanındaki veriler), mağaza bilgileri, emlak projeleri kapsamında bilgi formunu dolduran Kullanıcı’nın adı, soyadı, cep telefonu, ilgilendiği proje, bilgi talep tarih, kapsam ve durumu, anket ve/veya banner yönlendirme modüllerinin Kullanıcılar tarafından kullanılması durumunda modül üzerinden Kullanıcılar’ın ilgili ürüne yönlenebilmeleri ve ürün tedarikçisi firmaların kullanıcı ile iletişime geçmesi için ilgili anket veya banner’da belirtilen veriler.
 
 Konum Verileri: Kullanıcılar’ın Sahibinden’in mobil uygulamasında ilan arama ve/veya ilan verme fonksiyonlarını kullanırken, kendi istek ve tercihleri doğrultusunda Sahibinden’e sağlamaları halinde hassas veya yaklaşık konumları ile ilgili verileri, GPS verisi ile IP ve port adreslerinden çıkarılan konum verileri, (Kullanıcılar’ın tercih etmemesi durumunda bu veriler Sahibinden tarafından elde edilmez) Kurumsal Kullanıcılar’ın Portal’da ve kendilerine tahsis edilen internet sitelerinde/veya kendi tercihleri doğrultusunda tam adres girmeleri durumunda hassas veya yaklaşık konumları ile ilgili verileri, GPS verisi ile IP ve port adreslerinden çıkarılan konum verileri.
 
@@ -64,35 +62,38 @@ Hesap Oluşturma Süreçleri
 
 Kimlik ve iletişim bilgileri, işlem güvenliği verileri, kimlik doğrulama verileri ve müşteri işlem verileri hesap oluşturma süreçleri kapsamında aşağıdaki amaçlarla işlenmektedir:
 
-Hesap sözleşmesinin kurulması ve ifası, bu kapsamda sözleşmedeki yükümlülüklerin yerine getirilmesi,
-Kullanıcı’nın Portal üzerinde hesabının oluşturulması, yönetilmesi, Kullanıcılar’ın hesaplarının aktif ve pasife alınma süreçlerinin yürütülmesi,
-Hesap açılış ve yönetim süreçlerinde iletişim faaliyetlerinin yürütülmesi,
-Ürün ve hizmetlerin doğru kişiye verildiğinin kontrolünün sağlanması, gerekli durumlarda 2 aşamalı doğrulama özelliğinin aktif hale getirilmesi,
-Platform faaliyetlerinin mevzuata uygun olarak yürütülmesi,
-Yürürlükteki mevzuata uygun olarak verilerin saklama faaliyetlerinin yürütülmesi.
+    Hesap sözleşmesinin kurulması ve ifası, bu kapsamda sözleşmedeki yükümlülüklerin yerine getirilmesi,
+    Kullanıcı’nın Portal üzerinde hesabının oluşturulması, yönetilmesi, Kullanıcılar’ın hesaplarının aktif ve pasife alınma süreçlerinin yürütülmesi,
+    Hesap açılış ve yönetim süreçlerinde iletişim faaliyetlerinin yürütülmesi,
+    Ürün ve hizmetlerin doğru kişiye verildiğinin kontrolünün sağlanması, gerekli durumlarda 2 aşamalı doğrulama özelliğinin aktif hale getirilmesi,
+    Platform faaliyetlerinin mevzuata uygun olarak yürütülmesi,
+    Yürürlükteki mevzuata uygun olarak verilerin saklama faaliyetlerinin yürütülmesi.
+
 İlan ve Alışveriş Süreçleri
 
 Kimlik ve iletişim bilgileri, işlem güvenliği verileri, kimlik doğrulama verileri, müşteri işlem verileri, ödeme verileri, iletişim ve bildirim verileri, ilan ve alışveriş süreçleri kapsamında aşağıdaki amaçlarla işlenmektedir:
 
-Hesap sözleşmesi ve eklerinde yer alan yükümlülüklerin yerine getirilmesi, bu doğrultuda ilan verme, ilan arama, ikinci el ve sıfır alışveriş, Portal’daki ilgili ürün ve hizmetlerin kullanıcılara verilmesinin sağlanması, 
-Ürün ve hizmetlerin sağlanmasına ilişkin operasyonel faaliyetlerin planlanması, yürütülmesi ve raporlanması,
-Kullanıcıların doping vs. avantajlardan faydalanması durumunda ödeme süreçlerinin yürütülmesi,
-Hesap açılış ve moderasyon süreçlerinin yürütülmesi,
-Kurumsal kullanıcıların mağaza açılış süreçlerinin planlanması ve yürütülmesi, ana kullanıcı (mağaza) ve varsa alt kullanıcı süreçlerinin yönetimi ve raporlanması,
-Kurumsal kullanıcıların tercih etmeleri durumunda “emlak ofisi” ve “oto galerim” süreçlerinin planlanması, yürütülmesi ve raporlanması,
-Kurumsal kullanıcıların tercih etmeleri durumunda afiş ve branda hizmetlerinin sağlanması,
-Gereken durumlarda hesap sözleşmesi kapsamında ödeme, finans ve muhasebe işlerinin planlanması, yürütülmesi ve raporlanması, faturalandırma ve tahsilat süreçlerinin yürütülmesi,
-Gereken durumlarda Kullanıcılar’ın ceza bedelini ödeme süreçlerinin yürütülmesi,
-Mağaza kapanış ve varsa alt kullanıcı iptal süreçlerinin planlanması, yürütülmesi ve raporlanması,
-Kullanıcılara alışveriş kategorisinde sunulan S - Param Güvende ve Güvenli e- Ticaret hizmetleri kapsamında Kullanıcılara güvenli e-ticaret ortamı sunulması, bu doğrultuda ödeme ve transfer, kargo ve iade süreçlerinin planlanması ve yürütülmesi,  
-Kullanıcılar’ın tercihleri doğrultusunda ikinci el ve sıfır alışveriş, yedek parça ve hayvanlar alemi mağazalarında toplu giriş süreçlerinin planlanması ve yürütülmesi,
-Kullanıcılar’ın tercihleri doğrultusunda kullanıcılara yönelik çekiliş ve kampanyaların planlanması, yürütülmesi ve raporlanması,
-Bankaların “Bankadan Emlak” ürünün kullanması durumunda, ilgili bankaların “Kullanıcı” olarak hesap açılış ve yönetim süreçlerinin yürütülmesi, “Bankadan Emlak” ürününün sağlanmasına ilişkin operasyonel faaliyetlerin planlanması, yürütülmesi ve raporlanması,
-Emlak projeleri kapsamında ilgili Kullanıcılar’ın proje hakkında bilgi alma taleplerinin ilgili proje mağazalarına iletilmesine dair operasyonel ve iletişim faaliyetlerinin planlanması, yürütülmesi ve raporlanması,
-Yukarıdaki faaliyetler kapsamında iletişim faaliyetlerinin yürütülmesi,
-Gereken durumlarda çevrimiçi eğitimlerin planlanması, Kullanıcılar’ın katılımlarının sağlanması ve raporlanması,
-Yukarıdaki faaliyetlere ilişkin analiz ve analitik çalışmaların yapılması, raporların oluşturulması ve raporlama faaliyetlerinin yürütülmesi,
-Yukarıdaki faaliyetlere ilişkin her türlü talep, şikayet, soru ve görüşlerin karşılanması, değerlendirilmesi, raporlanması bu doğrultuda gerekli aksiyonların alınması, müşteri memnuniyet anketlerinin planlanması ve yürütülmesi, bu kapsamda kullanıcılarla iletişim faaliyetlerinin yürütülmesi.
+    Hesap sözleşmesi ve eklerinde yer alan yükümlülüklerin yerine getirilmesi, bu doğrultuda ilan verme, ilan arama, ikinci el ve sıfır alışveriş, Portal’daki ilgili ürün ve hizmetlerin kullanıcılara verilmesinin sağlanması, 
+    Ürün ve hizmetlerin sağlanmasına ilişkin operasyonel faaliyetlerin planlanması, yürütülmesi ve raporlanması,
+    Kullanıcıların doping vs. avantajlardan faydalanması durumunda ödeme süreçlerinin yürütülmesi,
+    Hesap açılış ve moderasyon süreçlerinin yürütülmesi,
+    Kurumsal kullanıcıların mağaza açılış süreçlerinin planlanması ve yürütülmesi, ana kullanıcı (mağaza) ve varsa alt kullanıcı süreçlerinin yönetimi ve raporlanması,
+    Kullanıcıların yetki durumunun belirlenmesi, yetki belgelerinin doğrulanması ve kontrol edilmesi ile ilgili süreçlerin yürütülmesi.
+    Kurumsal kullanıcıların tercih etmeleri durumunda “emlak ofisi” ve “oto galerim” süreçlerinin planlanması, yürütülmesi ve raporlanması,
+    Kurumsal kullanıcıların tercih etmeleri durumunda afiş ve branda hizmetlerinin sağlanması,
+    Gereken durumlarda hesap sözleşmesi kapsamında ödeme, finans ve muhasebe işlerinin planlanması, yürütülmesi ve raporlanması, faturalandırma ve tahsilat süreçlerinin yürütülmesi,
+    Gereken durumlarda Kullanıcılar’ın ceza bedelini ödeme süreçlerinin yürütülmesi,
+    Mağaza kapanış ve varsa alt kullanıcı iptal süreçlerinin planlanması, yürütülmesi ve raporlanması,
+    Kullanıcılara alışveriş kategorisinde sunulan S - Param Güvende ve Güvenli e- Ticaret hizmetleri kapsamında Kullanıcılara güvenli e-ticaret ortamı sunulması, bu doğrultuda ödeme ve transfer, kargo ve iade süreçlerinin planlanması ve yürütülmesi,  
+    Kullanıcılar’ın tercihleri doğrultusunda ikinci el ve sıfır alışveriş, yedek parça ve hayvanlar alemi mağazalarında toplu giriş süreçlerinin planlanması ve yürütülmesi,
+    Kullanıcılar’ın tercihleri doğrultusunda kullanıcılara yönelik çekiliş ve kampanyaların planlanması, yürütülmesi ve raporlanması,
+    Bankaların “Bankadan Emlak” ürünün kullanması durumunda, ilgili bankaların “Kullanıcı” olarak hesap açılış ve yönetim süreçlerinin yürütülmesi, “Bankadan Emlak” ürününün sağlanmasına ilişkin operasyonel faaliyetlerin planlanması, yürütülmesi ve raporlanması,
+    Emlak projeleri kapsamında ilgili Kullanıcılar’ın proje hakkında bilgi alma taleplerinin ilgili proje mağazalarına iletilmesine dair operasyonel ve iletişim faaliyetlerinin planlanması, yürütülmesi ve raporlanması,
+    Yukarıdaki faaliyetler kapsamında iletişim faaliyetlerinin yürütülmesi,
+    Gereken durumlarda çevrimiçi eğitimlerin planlanması, Kullanıcılar’ın katılımlarının sağlanması ve raporlanması,
+    Yukarıdaki faaliyetlere ilişkin analiz ve analitik çalışmaların yapılması, raporların oluşturulması ve raporlama faaliyetlerinin yürütülmesi,
+    Yukarıdaki faaliyetlere ilişkin her türlü talep, şikayet, soru ve görüşlerin karşılanması, değerlendirilmesi, raporlanması bu doğrultuda gerekli aksiyonların alınması, müşteri memnuniyet anketlerinin planlanması ve yürütülmesi, bu kapsamda kullanıcılarla iletişim faaliyetlerinin yürütülmesi.
+
 Kullanıcılar’ın konum verileri, Sahibinden’in mobil uygulamasında ilan arama ve/veya ilan verme fonksiyonlarını kullanmaları durumunda, kendi istek ve tercihleri doğrultusunda ilan arama ve ilan verme süreçlerinin yürütülmesi, kesin konum verisinin gösterilmesiyle ilan arama ve ilan verme süreçlerinin kolaylaştırılması ve Kullanıcılar’ın aldıkları ilan arama ve ilan verme hizmetlerinin iyileştirilmesi amaçlarıyla işlenmektedir (Kullanıcılar’ın tercih etmemesi durumunda bu veriler Sahibinden tarafından elde edilmez). Kurumsal Kullanıcılar’ın Portal’da ve/veya kendilerine tahsis edilen internet sitelerinde kendi tercihleri doğrultusunda tam adres girmeleri durumunda konum verileri ilgili kurumsal Kullanıcı’nın yerini doğru ve net olarak göstermek amacıyla işlenmektedir.
 
 Anket ve test cevapları verileri Kullanıcılar’ın Portal dahilinde düzenlenen periyodik anketlere ve/veya Sahibinden’in işbirliği yaptığı gerçek ve tüzel kişiler tarafından yapılan anketlere katılmaları durumunda, anket çalışmalarının planlanması ve yürütülmesi, bu doğrultuda (i) çalışanlarımızın performanslarının değerlendirilmesi, raporlanması ve geliştirilmesi, (i) ürün ve hizmet geliştirme ve analiz faaliyetlerinin planlanması ve yürütülmesi, (iii) müşteri ilişkilerinin planlanması ve müşteri ilişkilerinin geliştirilmesine yönelik çalışmaların yürütülmesi ve (iv) istatistikî analiz yapma ve veri tabanı oluşturma amaçlarıyla işlenmektedir.
@@ -101,9 +102,10 @@ Anket ve test cevapları verileri Kullanıcılar’ın Portal dahilinde düzenle
 
 Kimlik ve iletişim bilgileri, işlem güvenliği verileri, kimlik doğrulama verileri, müşteri işlem verileri, ödeme verileri, canlı yardım merkezi verileri, ile iletişim ve bildirim verileri, iletişim ve bildirim süreçleri kapsamında aşağıdaki amaçlarla işlenmektedir:
 
-Her türlü talep, şikayet, soru ve görüşlerin karşılanması, değerlendirilmesi, raporlanması bu doğrultuda gerekli aksiyonların alınması, Kullanıcı bildirimlerinin çözülmesi,
-Müşteri ilişkilerinin planlanması ve yönetimi, müşteri ilişkilerinin geliştirilmesine yönelik çalışmaların yürütülmesi, müşteri memnuniyetinin sağlanması,
-Yukarıdaki faaliyetler kapsamında kapsamda Kullanıcılarla iletişim faaliyetlerinin yürütülmesi, Kullanıcılara sözlü ve/veya yazılı geri dönüş yapılması, gerekirse cevap yazıları gönderilmesi,
+    Her türlü talep, şikayet, soru ve görüşlerin karşılanması, değerlendirilmesi, raporlanması bu doğrultuda gerekli aksiyonların alınması, Kullanıcı bildirimlerinin çözülmesi,
+    Müşteri ilişkilerinin planlanması ve yönetimi, müşteri ilişkilerinin geliştirilmesine yönelik çalışmaların yürütülmesi, müşteri memnuniyetinin sağlanması,
+    Yukarıdaki faaliyetler kapsamında kapsamda Kullanıcılarla iletişim faaliyetlerinin yürütülmesi, Kullanıcılara sözlü ve/veya yazılı geri dönüş yapılması, gerekirse cevap yazıları gönderilmesi,
+
 Mesaj verileriniz Portal’da emlak, vasıta, yedek parça & aksesuar, iş makineleri & sanayi, ustalar & hizmetler, iş ilanları, yardımcı arayanlar ve hayvanlar alemi kategorilerinde alıcı ve satıcı arasında iletişimin sağlanması ve ilanlara yönelik bilgilendirme faaliyetlerinin ilan sahipleri tarafından yürütülmesi amaçlarıyla işlenmektedir.
 
 Soru ve cevap verileriniz ikinci el ve sıfır alışveriş kategorilerinde verilmiş bir ilanın “İletişim” bölümünde yer alan ”Soru Sor” butonu ile alıcı konumundaki Kullanıcılar’ın; ürün ile ilgili sorularını satıcı konumundaki Kullanıcılara iletmesi ve ilgili satıcı tarafından verilen cevapların, ilan detay sayfasında herkes tarafından görünür ya da kişiye özel görünür şekilde yayınlanması, bu doğrultuda ilgili ürün hakkında bilgilendirme yapılması, alıcı ve satıcı arasında iletişim faaliyetlerinin yürütülmesi ve ilgili ürünün satış faaliyetlerinin yürütülmesi amaçlarıyla işlenmektedir.
@@ -114,91 +116,103 @@ Kimlik Doğrulama Süreçleri
 
 Kimlik ve iletişim verileriniz, kimlik doğrulama verileriniz ve müşteri işlem verileriniz kimlik doğrulama süreçleri kapsamında aşağıdaki amaçlarla işlenmektedir:
 
-Ürün ve hizmetlerin doğru kişiye verildiğinin kontrolünün sağlanması,
-Kullanıcılar’ın hesaplarına güvenli bir şekilde giriş yapmalarının sağlanması,
-Kullanıcılar’ın hesaplarına ilişkin kayıt, şikayet, sorun/hata bildirimi süreçleri ile moderasyon ve denetim süreçlerinin yürütülmesi, bu doğrultuda ilgili hesaplara yönelik dijital kimlik süreçleri, kullanıcı doğrulama ve ilgili hesapların açılış ve kapanış işlemlerinin yürütülmesi,
-Dolandırıcılık başta olmak üzere Portal’da suç teşkil eden eylemlerinin önlenmesine yönelik çalışmaların yürütülmesi, Portal’ın güvenliğinin sağlanması, bilgi güvenliği süreçlerinin yürütülmesi, Kullanıcılara güvenli bir e-ticaret ortamı sağlanması,
-Kimlik verileri açısından mevzuattan doğan zorunluluğa binaen emlak ve vasıta ilanlarında kimlik doğrulamanın e-devlet aracılığıyla yürütülmesi,
-İş süreçlerimizde kimlik doğrulamasının gerektiği durumlarda kimlik doğrulama sürecinin e-devlet aracığıyla yürütülmesi,
-Yukarıdaki faaliyetler kapsamında Kullanıcılar ile iletişim faaliyetlerinin yürütülmesi, Kullanıcılar’ın bilgilendirilmelerinin sağlanması.
+    Ürün ve hizmetlerin doğru kişiye verildiğinin kontrolünün sağlanması,
+    Kullanıcılar’ın hesaplarına güvenli bir şekilde giriş yapmalarının sağlanması,
+    Kullanıcılar’ın hesaplarına ilişkin kayıt, şikayet, sorun/hata bildirimi süreçleri ile moderasyon ve denetim süreçlerinin yürütülmesi, bu doğrultuda ilgili hesaplara yönelik kullanıcı doğrulama ve ilgili hesapların açılış ve kapanış işlemlerinin yürütülmesi,
+    Dolandırıcılık başta olmak üzere Portal’da suç teşkil eden eylemlerinin önlenmesine yönelik çalışmaların yürütülmesi, Portal’ın güvenliğinin sağlanması, bilgi güvenliği süreçlerinin yürütülmesi, Kullanıcılara güvenli bir e-ticaret ortamı sağlanması,
+    Kimlik verileri açısından mevzuattan doğan zorunluluğa binaen emlak ve vasıta ilanlarında kimlik doğrulamanın e-Devlet aracılığıyla yürütülmesi,
+    İş süreçlerimizde kimlik doğrulamasının gerektiği durumlarda kimlik doğrulama sürecinin e-Devlet ve/veya diğer yetkili yöntemler aracığıyla yürütülmesi,
+    Yukarıdaki faaliyetler kapsamında Kullanıcılar ile iletişim faaliyetlerinin yürütülmesi, Kullanıcılar’ın bilgilendirilmelerinin sağlanması.
+
 Gayrimenkul Danışman Değerlendirme Süreci
 
 Kimlik ve iletişim verileriniz ve gayrimenkul danışman değerlendirme verileriniz, bu süreç kapsamında aşağıdaki amaçlarla işlenmektedir:
 
-Bireysel kullanıcının uygulama içerisinde iletişim kurduğu gayrimenkul danışmanlarına puan ve yorum verme imkanının sağlanması ve gayrimenkul danışman değerlendirme iş sürecinin yürütülmesi, 
-Müşterilerle yapılan görüşmeler, taleplere dönüş hızı ve ilan şikayetlerine göre sistem tarafından gayrimenkul danışmanına yönelik ortalama puan verisinin oluşturulması, ortalama puan verisinin gayrimenkul danışmanlarına gösterilmesi,
-Gayrimenkul danışmanlarının sürece dair itiraz haklarını kullandıkları durumda söz konusu itirazların değerlendirilmesi ve sonuçlandırılması,
-Müşteri yönetim ve iletişim faaliyetlerinin yürütülmesi, müşteri deneyiminin iyileştirilmesi, kurumsal mağaza sahiplerinin hizmet kalitesini ve müşteri memnuniyetinin arttırılması,
-İlgili gayrimenkul danışmanı değerlendiren kullanıcıya yönelik e-devlet aracığıyla kimlik doğrulama sürecinin yürütülmesi,
-Gayrimenkul danışman değerlendirme sürecine yönelik raporlama, denetim ve moderasyon faaliyetleri yürütülmesi.
+    Bireysel kullanıcının uygulama içerisinde iletişim kurduğu gayrimenkul danışmanlarına puan ve yorum verme imkanının sağlanması ve gayrimenkul danışman değerlendirme iş sürecinin yürütülmesi, 
+    Müşterilerle yapılan görüşmeler, taleplere dönüş hızı ve ilan şikayetlerine göre sistem tarafından gayrimenkul danışmanına yönelik ortalama puan verisinin oluşturulması, ortalama puan verisinin gayrimenkul danışmanlarına gösterilmesi,
+    Gayrimenkul danışmanlarının sürece dair itiraz haklarını kullandıkları durumda söz konusu itirazların değerlendirilmesi ve sonuçlandırılması,
+    Müşteri yönetim ve iletişim faaliyetlerinin yürütülmesi, müşteri deneyiminin iyileştirilmesi, kurumsal mağaza sahiplerinin hizmet kalitesini ve müşteri memnuniyetinin arttırılması,
+    İlgili gayrimenkul danışmanı değerlendiren kullanıcıya yönelik e-Devlet aracığıyla kimlik doğrulama sürecinin yürütülmesi,
+    Gayrimenkul danışman değerlendirme sürecine yönelik raporlama, denetim ve moderasyon faaliyetleri yürütülmesi.
+
 Pazarlama Süreçleri
 
 Kimlik ve iletişim bilgileriniz, müşteri işlem verileriniz ve pazarlama verileriniz, pazarlama süreçleri kapsamında aşağıdaki amaçlarla işlenmektedir:
 
-Şirketimizin pazarlama süreçlerinin planlanması, yürütülmesi ve raporlanması,
-Analiz ve istatistik çalışmalarının planlanması, yürütülmesi, değerlendirmesi ve raporlanması,  
-Kullanıcıların çekiliş ve kampanyalar hakkında bilgilendirilmelerinin sağlanması,
-Kullanıcılar’ın yürürlükteki mevzuata uygun bir şekilde verdikleri izin doğrultusunda Kullanıcılara ticari elektronik ileti gönderilmesi, gönderilen iletilerin değerlendirilmesi ve raporlanması,
-Müşteri ilişkilerinin planlanması ve müşteri ilişkilerinin geliştirilmesine yönelik çalışmaların yürütülmesi, müşteri memnuniyetinin sağlanması.
+    Şirketimizin pazarlama süreçlerinin planlanması, yürütülmesi ve raporlanması,
+    Analiz ve istatistik çalışmalarının planlanması, yürütülmesi, değerlendirmesi ve raporlanması,  
+    Kullanıcıların çekiliş ve kampanyalar hakkında bilgilendirilmelerinin sağlanması,
+    Kullanıcılar’ın yürürlükteki mevzuata uygun bir şekilde verdikleri izin doğrultusunda Kullanıcılara ticari elektronik ileti gönderilmesi, gönderilen iletilerin değerlendirilmesi ve raporlanması,
+    Müşteri ilişkilerinin planlanması ve müşteri ilişkilerinin geliştirilmesine yönelik çalışmaların yürütülmesi, müşteri memnuniyetinin sağlanması.
+
+İlana ait görseller, ilan bilgileri ve ilana ilişkin teknik tanımlayıcı bilgileriniz, reklam, tanıtım ve hedefleme faaliyetlerinin yürütülmesi, ilanların daha geniş kitlelere ulaştırılması ve görünürlüğünün artırılması amacıyla işlenmekte, bu kapsamda sosyal medya ve arama motoru platformlarında reklam ve tanıtım faaliyetlerinde kullanılmaktadır.
+
 Oto360 Süreci
 
 Oto360 bilgileriniz, Oto360 süreci kapsamında aşağıdaki amaçlarla işlenmektedir:
 
-Sahibinden tarafından Portal’de yer alan ürün ve hizmetlerin sunulması, yükümlülüklerin yerine getirilmesi ve sözleşmenin ifası kapsamında Kullanıcılar’ın tercihleri doğrultusunda Portal’daki Oto360 sekmesinde belirtilen (i) periyodik bakım hizmetleri, (ii) araç değerleme hizmeti, (iii) oto ekspertiz hizmeti, (iv) araç hasar sorgulama hizmeti, (v) kredi teklifleri, (vi) sıfır araç ara ve (vii) elektrikli araç şarj istasyonları ürün ve hizmetlerinin sunulması, planlama ve raporlama faaliyetlerinin yürütülmesi,
-Yukarıdaki faaliyetler kapsamında Kullanıcılar ve Oto360 sekmesinde belirtilen hizmetlerin sunulmasına ilişkin ilgili iş ortakları ile operasyonel ve iletişim faaliyetlerinin yürütülmesi,
-Yukarıdaki faaliyetler kapsamında iletişim faaliyetlerinin yürütülmesi, Kullanıcılar’ın bilgilendirilmelerinin sağlanması,
-Yukarıdaki faaliyetlere ilişkin her türlü talep, şikayet, soru ve görüşlerin karşılanması, değerlendirilmesi, raporlanması bu doğrultuda gerekli aksiyonların alınması, müşteri memnuniyet anketlerinin planlanması ve yürütülmesi, bu kapsamda kullanıcılarla iletişim faaliyetlerinin yürütülmesi.
+    Sahibinden tarafından Portal’de yer alan ürün ve hizmetlerin sunulması, yükümlülüklerin yerine getirilmesi ve sözleşmenin ifası kapsamında Kullanıcılar’ın tercihleri doğrultusunda Portal’daki Oto360 sekmesinde belirtilen (i) periyodik bakım hizmetleri, (ii) araç değerleme hizmeti, (iii) oto ekspertiz hizmeti, (iv) araç hasar sorgulama hizmeti, (v) kredi teklifleri, (vi) sıfır araç ara ve (vii) elektrikli araç şarj istasyonları ürün ve hizmetlerinin sunulması, planlama ve raporlama faaliyetlerinin yürütülmesi,
+    Yukarıdaki faaliyetler kapsamında Kullanıcılar ve Oto360 sekmesinde belirtilen hizmetlerin sunulmasına ilişkin ilgili iş ortakları ile operasyonel ve iletişim faaliyetlerinin yürütülmesi,
+    Yukarıdaki faaliyetler kapsamında iletişim faaliyetlerinin yürütülmesi, Kullanıcılar’ın bilgilendirilmelerinin sağlanması,
+    Yukarıdaki faaliyetlere ilişkin her türlü talep, şikayet, soru ve görüşlerin karşılanması, değerlendirilmesi, raporlanması bu doğrultuda gerekli aksiyonların alınması, müşteri memnuniyet anketlerinin planlanması ve yürütülmesi, bu kapsamda kullanıcılarla iletişim faaliyetlerinin yürütülmesi.
+
 Emlak360 Süreci
 
 Emlak360 bilgileriniz, Emlak360 süreci kapsamında aşağıdaki amaçlarla işlenmektedir:
 
-Sahibinden tarafından Portal’de yer alan ürün ve hizmetlerin sunulması, yükümlülüklerin yerine getirilmesi ve sözleşmenin ifası kapsamında Kullanıcılar’ın tercihleri doğrultusunda Portal’daki Emlak360 sekmesinde belirtilen (i) emlak endeksi, (ii) emlak ekspertiz hizmeti ve (iii) kredi teklifleri ürün ve hizmetlerinin sunulması, planlama ve raporlama faaliyetlerinin yürütülmesi,
-Yukarıdaki faaliyetler kapsamında Kullanıcılar ve Emlak360 sekmesinde belirtilen hizmetlerin sunulmasına ilişkin ilgili iş ortakları ile operasyonel ve iletişim faaliyetlerinin yürütülmesi,
-Yukarıdaki faaliyetler kapsamında iletişim faaliyetlerinin yürütülmesi, Kullanıcılar’ın bilgilendirilmelerinin sağlanması,
-Yukarıdaki faaliyetlere ilişkin her türlü talep, şikayet, soru ve görüşlerin karşılanması, değerlendirilmesi, raporlanması bu doğrultuda gerekli aksiyonların alınması, müşteri memnuniyet anketlerinin planlanması ve yürütülmesi, bu kapsamda kullanıcılarla iletişim faaliyetlerinin yürütülmesi.
+    Sahibinden tarafından Portal’de yer alan ürün ve hizmetlerin sunulması, yükümlülüklerin yerine getirilmesi ve sözleşmenin ifası kapsamında Kullanıcılar’ın tercihleri doğrultusunda Portal’daki Emlak360 sekmesinde belirtilen (i) emlak endeksi, (ii) emlak ekspertiz hizmeti ve (iii) kredi teklifleri ürün ve hizmetlerinin sunulması, planlama ve raporlama faaliyetlerinin yürütülmesi,
+    Yukarıdaki faaliyetler kapsamında Kullanıcılar ve Emlak360 sekmesinde belirtilen hizmetlerin sunulmasına ilişkin ilgili iş ortakları ile operasyonel ve iletişim faaliyetlerinin yürütülmesi,
+    Yukarıdaki faaliyetler kapsamında iletişim faaliyetlerinin yürütülmesi, Kullanıcılar’ın bilgilendirilmelerinin sağlanması,
+    Yukarıdaki faaliyetlere ilişkin her türlü talep, şikayet, soru ve görüşlerin karşılanması, değerlendirilmesi, raporlanması bu doğrultuda gerekli aksiyonların alınması, müşteri memnuniyet anketlerinin planlanması ve yürütülmesi, bu kapsamda kullanıcılarla iletişim faaliyetlerinin yürütülmesi.
+
 S-Aracım Süreci
 
 Kimlik ve iletişim verileriniz, müşteri işlem verileriniz ve S-Aracım verileriniz S-Aracım süreci kapsamında aşağıdaki amaçlarla işlenmektedir:
 
-Sahibinden tarafından ilgili hesap sözleşmesi kapsamında yükümlüklerin yerine getirilmesi ve sözleşmenin ifası, bu doğrultuda S-Aracım hizmetinin yerine getirilmesi ve operasyonel faaliyetlerin yürütülmesi,
-S-Aracım hizmeti kapsamında vasıta ilanı verme süreçlerinin kolaylaştırılması, ilan verme sırasında yaşanabilecek dolandırıcılık ve suistimallerin önlenmesi,
-Aracın platform içindeki tarihçesinin anlaşılabilmesi için ilan fotoğraflarındaki araç plaka bilgilerinden araç bilgilerine ulaşılabilmesine yönelik iş sürecinin planlanması ve bu doğrultuda veri toplanması.
+    Sahibinden tarafından ilgili hesap sözleşmesi kapsamında yükümlüklerin yerine getirilmesi ve sözleşmenin ifası, bu doğrultuda S-Aracım hizmetinin yerine getirilmesi ve operasyonel faaliyetlerin yürütülmesi,
+    S-Aracım hizmeti kapsamında vasıta ilanı verme süreçlerinin kolaylaştırılması, ilan verme sırasında yaşanabilecek dolandırıcılık ve suistimallerin önlenmesi,
+    Aracın platform içindeki tarihçesinin anlaşılabilmesi için ilan fotoğraflarındaki araç plaka bilgilerinden araç bilgilerine ulaşılabilmesine yönelik iş sürecinin planlanması ve bu doğrultuda veri toplanması.
+
 Yenilenmiş Ürün Pazar Yeri Süreci
 
 Kimlik ve iletişim verileriniz, müşteri işlem verileriniz ve yenilenmiş ürün pazar yeri verileriniz, yenilenmiş ürün pazar yeri süreci kapsamında aşağıdaki amaçlarla işlenmektedir:
 
-Sahibinden tarafından ilgili hesap sözleşmesi ile Yenilenmiş Ürün Pazar Yeri süreci kapsamında imzalanan sözleşmelerde belirtilen yükümlülüklerin yerine getirilmesi ve bu sözleşmelerin ifası, bu doğrultuda Portal’daki Yenilenmiş Ürün Pazar Yeri’nde ilanlarına yer verilen ilgili cihazların satış işlemlerinin planlanması,yürütülmesi ve raporlanması,
-Yenilenmiş Ürün Pazar Yeri süreci kapsamında satışa konu cihazların satış ve satın alma olmak üzere tüm satış işlemlerinin yürütülmesi, kargo ve teslimat süreçlerinin planlanması ve yürütülmesi, teklif ve ödeme süreçlerinin yürütülmesi, taraflar arasında koordinasyonun sağlanması, ilgili sözleşmelerden doğan yükümlülüklerin ifası,
-Yenilenmiş Ürün Pazar Yeri süreci kapsamında kurumsal Kullanıcı firma tarafından satın alınacak cihazların ön inceleme ve teknik inceleme süreçlerinin planlanması, yürütülmesi ve raporlanması,
-Yukarıdaki faaliyetler kapsamında bireysel ve kurumsal Kullanıcılar ve ilgili firmalar ile iletişim faaliyetlerinin yürütülmesi,
-İşlem güvenliğinin sağlanması, operasyonel ve bilgi güvenliği süreçlerinin yürütülmesi.
+    Sahibinden tarafından ilgili hesap sözleşmesi ile Yenilenmiş Ürün Pazar Yeri süreci kapsamında imzalanan sözleşmelerde belirtilen yükümlülüklerin yerine getirilmesi ve bu sözleşmelerin ifası, bu doğrultuda Portal’daki Yenilenmiş Ürün Pazar Yeri’nde ilanlarına yer verilen ilgili cihazların satış işlemlerinin planlanması, yürütülmesi ve raporlanması,
+    Yenilenmiş Ürün Pazar Yeri süreci kapsamında satışa konu cihazların satış ve satın alma olmak üzere tüm satış işlemlerinin yürütülmesi, kargo ve teslimat süreçlerinin planlanması ve yürütülmesi, teklif ve ödeme süreçlerinin yürütülmesi, taraflar arasında koordinasyonun sağlanması, ilgili sözleşmelerden doğan yükümlülüklerin ifası,
+    Yenilenmiş Ürün Pazar Yeri süreci kapsamında kurumsal Kullanıcı firma tarafından satın alınacak cihazların ön inceleme ve teknik inceleme süreçlerinin planlanması, yürütülmesi ve raporlanması,
+    Yukarıdaki faaliyetler kapsamında bireysel ve kurumsal Kullanıcılar ve ilgili firmalar ile iletişim faaliyetlerinin yürütülmesi,
+    İşlem güvenliğinin sağlanması, operasyonel ve bilgi güvenliği süreçlerinin yürütülmesi.
+
 Müşteri işlem bilgileriniz (ilana konu ürünün özellikleri ve cihaz durumu), (i) ilana konu edilen cihazın Yepy'den fiyat teklifi almaya uygun olup olmadığının değerlendirilmesi, (ii) Yepy'den fiyat teklifi almaya uygun olduğu değerlendirilen cihazlara özel fiyat teklifinin oluşturulması, fiyat teklifinin ilgili kullanıcıya sunulması ve teklif sürecinin yürütülmesi ve (iii) Yepy hizmetinin tanıtımına ve kullanıcıların Yepy hizmetinden faydalanmasına yönelik faaliyetlerin yürütülmesi amaçlarıyla işlenmektedir.
 
 Yapay Zeka Destekli Arama Süreci
 
 Kimlik ve iletişim verileriniz ile yapay zeka destekli arama verileriniz yapay zeka destekli arama süreci kapsamında aşağıdaki amaçlarla işlenmektedir:
 
-İlgili ilan kategorilerinde Kullanıcılar’ın aradıkları ilanı bulmalarına destek olunması, bu amaç doğrultusunda yapay zeka destekli arama hizmetinin sunulması, Kullanıcılar’ın ilettikleri arama taleplerinin işlenerek arama kriterlerine dönüştürülmesi ve bu talepler doğrultusunda ilanların listelenmesi,
-Yapay zeka destekli sorgu sistemin doğru ve güvenli şekilde çalışmasını sağlamak amacıyla teknik ihtiyaçların karşılanması,
-Yapay zeka destekli arama hizmetinin güvenliğinin sağlanması, Kullanıcılar’a sistemin kullanımı konusunda yönlendirme sağlanması,
-Hata tespiti, sorun giderme, sistem performansının izlenmesi ve teknik iyileştirme süreçlerinin yürütülmesi.
+    İlgili ilan kategorilerinde Kullanıcılar’ın aradıkları ilanı bulmalarına destek olunması, bu amaç doğrultusunda yapay zeka destekli arama hizmetinin sunulması, Kullanıcılar’ın ilettikleri arama taleplerinin işlenerek arama kriterlerine dönüştürülmesi ve bu talepler doğrultusunda ilanların listelenmesi,
+    Yapay zeka destekli sorgu sistemin doğru ve güvenli şekilde çalışmasını sağlamak amacıyla teknik ihtiyaçların karşılanması,
+    Yapay zeka destekli arama hizmetinin güvenliğinin sağlanması, Kullanıcılar’a sistemin kullanımı konusunda yönlendirme sağlanması,
+    Hata tespiti, sorun giderme, sistem performansının izlenmesi ve teknik iyileştirme süreçlerinin yürütülmesi.
+
 Ürün Geliştirme Süreçleri
 
 Yukarıda belirtilen tüm kişisel verileriniz ürün geliştirme süreçleri kapsamında aşağıdaki amaçlarla işlenmektedir.
 
-Çalışanlarımızın performanslarının değerlendirilmesi, raporlanması ve geliştirilmesi,
-Ürün ve hizmet geliştirme faaliyetlerinin planlanması ve bu faaliyetler kapsamında; ürün ve hizmetlerimize yönelik kullanıcı deneyimi, kalite, etkinlik, analiz ve iyileştirme çalışmalarının yapılması ve raporlanması,
-Müşteri ilişkilerinin planlanması ve müşteri ilişkilerinin geliştirilmesine yönelik çalışmaların yürütülmesi.
+    Çalışanlarımızın performanslarının değerlendirilmesi, raporlanması ve geliştirilmesi,
+    Ürün ve hizmet geliştirme faaliyetlerinin planlanması ve bu faaliyetler kapsamında; ürün ve hizmetlerimize yönelik kullanıcı deneyimi, kalite, etkinlik, analiz ve iyileştirme çalışmalarının yapılması ve raporlanması,
+    Müşteri ilişkilerinin planlanması ve müşteri ilişkilerinin geliştirilmesine yönelik çalışmaların yürütülmesi.
+
 Yönetim ve Mevzuata Uyum Süreçleri
 
 Yukarıda belirtilen tüm kişisel verileriniz yönetim ve mevzuata uyum süreçleri kapsamında aşağıdaki amaçlarla işlenmektedir.
 
-Kişisel verilerin saklama faaliyetleri yürütülmesi, sistem performansının geliştirilmesi ve bilgi güvenliği süreçlerinin yürütülmesi,
-Finans ve muhasebe işlerinin yürütülmesi,
-Yukarıda belirtilen tüm faaliyetlerinin yürürlükteki mevzuata uygun yürütülmesi,
-Bilgi güvenliği süreçlerinin planlanması ve yürütülmesi, Portal’ın yürürlükteki mevzuata ve ilgili hesap sözleşmelerine uygun olarak güvenli bir şekilde çalışmasının sağlanması, Portal’ın ve Kullanıcılar’ın güvenliğinin sağlanması ve Kullanıcılara güvenli bir e-ticaret ortamı sağlanması,
-Risk analiz çalışmaları ile denetimlerin yürütülmesi, değerlendirilmesi ve raporlanması,
-Hukuken yetkili kurum ve kuruluşlara bilgi verilmesi, hukuk işlerinin takibi ve gereken durumlarda savunma hakkımızın kullanılması.
+    Kişisel verilerin saklama faaliyetleri yürütülmesi, sistem performansının geliştirilmesi ve bilgi güvenliği süreçlerinin yürütülmesi,
+    Finans ve muhasebe işlerinin yürütülmesi,
+    Yukarıda belirtilen tüm faaliyetlerinin yürürlükteki mevzuata uygun yürütülmesi,
+    Bilgi güvenliği süreçlerinin planlanması ve yürütülmesi, Portal’ın yürürlükteki mevzuata ve ilgili hesap sözleşmelerine uygun olarak güvenli bir şekilde çalışmasının sağlanması, Portal’ın ve Kullanıcılar’ın güvenliğinin sağlanması ve Kullanıcılara güvenli bir e-ticaret ortamı sağlanması,
+    Risk analiz çalışmaları ile denetimlerin yürütülmesi, değerlendirilmesi ve raporlanması,
+    Hukuken yetkili kurum ve kuruluşlara bilgi verilmesi, hukuk işlerinin takibi ve gereken durumlarda savunma hakkımızın kullanılması.
+
 ç) İşlenen Kişisel Verilerin Kimlere ve Hangi Amaçla Aktarılabileceği
 
 Sahibinden, işbu Aydınlatma Metni altında bahsedilen şekilde toplanan tüm kişisel verileri, bu veriler elde edilerek kullanılarak elde ettiği yeni verileri veya Kullanıcıların kendilerinin pozitif hareketleriyle Portal’a girdikleri kişisel tüm kişisel verileri, Kanun’un 8. ve 9. maddelerinde belirtilen kişisel veri işleme şartları çerçevesinde, aşağıdaki kişi ve kuruluşlara aktarılabilmektedir:
@@ -277,6 +291,8 @@ Ad ve iletişim bilgileriniz, müşteri işlem verileriniz, pazarlama verilerini
 
 Sahibinden Portal’ında reklam vermek isteyen Kullanıcılar’ın kimlik ve iletişim bilgiler ile müşteri işlem bilgileri müşteri ilişkileri yönetim hizmeti sunan yurt dışında mukim tedarikçimize aktarılmaktadır.
 
+İlana ait görseller, ilan bilgileri ve ilana ilişkin teknik tanımlayıcı bilgileriniz, reklam, tanıtım ve hedefleme faaliyetlerinin yürütülmesi, ilanların daha geniş kitlelere ulaştırılması ve görünürlüğünün artırılması amacıyla yurt içinde ve yurt dışında bulunan sosyal medya ve arama motoru platformlarına aktarılmaktadır.
+
 S-Aracım Süreci
 
 S-Aracım süreci kapsamında elde edilen kişisel veriler saklama ve sunucu faaliyetleri, bilgi güvenliği faaliyetleri ve operasyonel faaliyetleri yürüten yurt içinde ve yurt dışında bulunan hizmet sağlayıcılarına aktarılmaktadır.
@@ -339,14 +355,22 @@ d) Kişisel Veri Toplamanın Yöntemi ve Hukuki Sebebi
 
 Sahibinden, daha etkin bir şekilde çalışmak ve size en iyi deneyimi sunmak için kişisel verilerinizi toplamaktadır. Sahibinden, kişisel verilerinizi, doğrudan sizden (veri sahibi), sizin adınıza hareket eden vekil ve/veya hareket etmeye yetkili kişiler tarafından aşağıdaki yöntemler kullanılarak toplanmaktadır:
 
-www.sahibinden.com internet sitesi ve/veya mobil uygulama üzerinden çevrimiçi olarak tarafınızca doğrudan verilmesi,
-Sahibinden yetkilileri ile gerçekleştireceğiniz yüz yüze veya çevrimiçi görüşmeler esnasında ve/veya canlı yardım merkezi aracığıyla yapılan yazışmalar esnasında tarafınızca şahsen verilmesi ve/veya SMS, e-posta, çağrı merkezi ve diğer iletişim vasıtalarıyla sağlanması, kendi takdiriniz doğrultusunda Sahibinden anketlerinin doldurulması,
-Anlaşmalı ödeme kuruluşları tarafından sağlanması,
-Gayrimenkul danışman değerlendirme süreci kapsamında ilgili Kullanıcılar tarafından sağlanması,
-Yapay zeka destekli arama süreci kapsamında, yapay zeka asistanına tarafınızca şahsen sağlanması,
-Yenilenmiş ürün pazar yeri süreci kapsamında cihaz satan / satın alan kurumsal Kullanıcı firmalar ya da cihaz satan / satın alan bireysel Kullanıcılar tarafından sağlanması, teknik inceleme esnasında kullanılan kameralar aracılığıyla elde edilmesi,
-Sahibinden’in Portal’da sunduğu hizmet sırasında, belirli yazılım ya da teknolojik araçlar tarafından elde edilerek sağlanması,
-E-devlet sistemi üzerinden sağlanması (Sahibinden’de ilan verirken mevzuat gereği zorunlu tutulan kimlik doğrulaması sürecinde elde edilen kişisel verileri ilgili kişisel veriler emlak ve vasıta alanlarında ilan verme, ilan düzenleme ve ilanı yeniden yayına alma aşamasında mevzuat gereği gerçekleştirilen kimlik doğrulama süreci ile gayrimenkul danışman değerlendirme sisteminde gerçekleştirilen kimlik doğrulama sürecinde E-devlet tarafından kullanıcı bazında aktarılan tanımlayıcı numarası (GUID-Globally Unique Identifier Number) bilgisini kapsamaktadır).
+    www.sahibinden.com internet sitesi ve/veya mobil uygulama üzerinden çevrimiçi olarak tarafınızca doğrudan verilmesi,
+
+    Sahibinden yetkilileri ile gerçekleştireceğiniz yüz yüze veya çevrimiçi görüşmeler esnasında ve/veya canlı yardım merkezi aracığıyla yapılan yazışmalar esnasında tarafınızca şahsen verilmesi ve/veya SMS, e-posta, çağrı merkezi ve diğer iletişim vasıtalarıyla sağlanması, kendi takdiriniz doğrultusunda Sahibinden anketlerinin doldurulması,
+
+    Anlaşmalı ödeme kuruluşları tarafından sağlanması,
+
+    Gayrimenkul danışman değerlendirme süreci kapsamında ilgili Kullanıcılar tarafından sağlanması,
+
+    Yapay zeka destekli arama süreci kapsamında, yapay zeka asistanına tarafınızca şahsen sağlanması,
+
+    Yenilenmiş ürün pazar yeri süreci kapsamında cihaz satan / satın alan kurumsal Kullanıcı firmalar ya da cihaz satan / satın alan bireysel Kullanıcılar tarafından sağlanması, teknik inceleme esnasında kullanılan kameralar aracılığıyla elde edilmesi,
+
+    Sahibinden’in Portal’da sunduğu hizmet sırasında, belirli yazılım ya da teknolojik araçlar tarafından elde edilerek sağlanması,
+
+    e-Devlet sistemi üzerinden sağlanması (Sahibinden’de ilan verirken mevzuat gereği zorunlu tutulan kimlik doğrulaması sürecinde elde edilen kişisel verileri ilgili kişisel veriler emlak ve vasıta alanlarında ilan verme, ilan düzenleme ve ilanı yeniden yayına alma aşamasında mevzuat gereği gerçekleştirilen kimlik doğrulama süreci ile gayrimenkul danışman değerlendirme sisteminde gerçekleştirilen kimlik doğrulama sürecinde e-Devlet tarafından kullanıcı bazında aktarılan tanımlayıcı numarası (GUID-Globally Unique Identifier Number) bilgisini kapsamaktadır).
+
 Sahibinden, ayrıca Portal’da bulunan çerezler (cookies) vasıtasıyla da kişisel veri elde etmekte olup söz konusu veri işleme faaliyetlerine ilişkin detaylar Portal’da bulunan Çerez Aydınlatma Metni’nde yer almaktadır.
 
 Şirketimiz tarafından yukarıda bahsedilen amaçlarla ve yöntemlerle toplanan kişisel veriler Kanun’un 5. ve 6. maddeleri kapsamında aşağıdaki hukuki sebeplere dayalı olarak işlenebilmekte ve aktarılabilmektedir:
@@ -398,6 +422,8 @@ Gayrimenkul danışman değerlendirme süreci kapsamında elde edilen ve yukarı
 Pazarlama Süreçleri
 
 Pazarlama süreçleri kapsamında elde edilen ve yukarıda belirtilen kişisel verileriniz, “açık rızanızın varlığı”, hukuki sebebine dayanılarak işlenmekte ve yukarıda belirtilen kişi ve kuruluşlara aktarılmaktadır.
+
+İlana ait görseller, ilan bilgileri ve ilana ilişkin teknik tanımlayıcı bilgileriniz, “açık rızanızın varlığı”, hukuki sebebine dayanılarak reklam, tanıtım ve hedefleme faaliyetlerinin yürütülmesi, ilanların daha geniş kitlelere ulaştırılması ve görünürlüğünün artırılması amacıyla işlenmekte ve yurt içinde mukim yukarıda belirtilen kişi ve kuruluşlara aktarılmaktadır.  İlgili veriler aynı amaçlar doğrultusunda Kişisel Verilerin Korunması Kanun’un 9. maddesinin (4). fıkrasının (c) bendi kapsamında “standart sözleşmenin varlığı” hukuki sebebine dayanılarak müşteri ilişkileri yönetim ve pazarlama platform hizmeti sunan yurt dışında mukim tedarikçimize aktarılmaktadır.
 
 Pazarlama süreçleri kapsamında ad ve iletişim bilgileriniz, müşteri işlem verileriniz, pazarlama verileriniz, pazarlama süreçlerinin planlanması, yürütülmesi ve raporlanması amacıyla Kişisel Verilerin Korunması Kanun’un 9. maddesinin (4). fıkrasının (c) bendi kapsamında “standart sözleşmenin varlığı” hukuki sebebine dayanılarak müşteri ilişkileri yönetim ve pazarlama platform hizmeti sunan yurt dışında mukim tedarikçimize aktarılmaktadır.
 
@@ -467,23 +493,25 @@ Kişisel veri sahipleri olarak, haklarınıza ilişkin taleplerinizi aşağıda 
 
 Bu kapsamda kişisel veri sahipleri;
 
-Kişisel verilerinin işlenip işlenmediğini öğrenme,
-Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
-Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
-Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,
-Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
-6698 sayılı Kanun ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması halinde kişisel verilerin silinmesini veya yok edilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
-İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
-Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması halinde zararın giderilmesini talep etme haklarına sahiptir.
+    Kişisel verilerinin işlenip işlenmediğini öğrenme,
+    Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,
+    Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,
+    Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,
+    Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
+    6698 sayılı Kanun ve ilgili diğer kanun hükümlerine uygun olarak işlenmiş olmasına rağmen, işlenmesini gerektiren sebeplerin ortadan kalkması halinde kişisel verilerin silinmesini veya yok edilmesini isteme ve bu kapsamda yapılan işlemin kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,
+    İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
+    Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması halinde zararın giderilmesini talep etme haklarına sahiptir.
+
 Yukarıda belirtilen haklarınızı kullanmak ile ilgili talebinizi, Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ'in 5. maddesi uyarınca, Türkçe olarak; veri sorumlusu sıfatıyla Sahibinden'in Değirmen Yolu Cad. No:28 Asia OfisPark A Blok Kat:2 34752 Ataşehir/İstanbul/Türkiye adresine kimliğinizi tevsik edici bilgi ve belgeler ile yazılı olarak, sahibinden@hs02.kep.tr adresine kayıtlı elektronik posta (KEP) ile, kvk@sahibinden.com adresine güvenli elektronik imza, mobil imza ile veya ilgili kişi tarafından Sahibinden sisteminde kayıtlı bulunan elektronik posta adresini kullanmak suretiyle iletebilirsiniz.
 
 Sahibinden'in kişisel verilerinizin hukuka aykırı paylaşımının önlenmesi amacıyla kimliğinizi doğrulama hakkı saklıdır.
 
 Başvurunuzda;
 
-Adınızın, soyadınızın ve başvuru yazılı ise imzanızın,
-Türkiye Cumhuriyeti vatandaşları için T.C. kimlik numaranızın, yabancı iseniz uyruğunuzun, pasaport numaranızın veya varsa kimlik numaranızın,
-Tebligata esas yerleşim yeri veya iş yeri adresinizin,
-Varsa bildirime esas elektronik posta adresi, telefon ve faks numaranızın,
-Talep konunuzun,
+    Adınızın, soyadınızın ve başvuru yazılı ise imzanızın,
+    Türkiye Cumhuriyeti vatandaşları için T.C. kimlik numaranızın, yabancı iseniz uyruğunuzun, pasaport numaranızın veya varsa kimlik numaranızın,
+    Tebligata esas yerleşim yeri veya iş yeri adresinizin,
+    Varsa bildirime esas elektronik posta adresi, telefon ve faks numaranızın,
+    Talep konunuzun,
+
 bulunması zorunlu olup varsa konuya ilişkin bilgi ve belgelerin de başvuruya eklenmesi gerekmektedir.
