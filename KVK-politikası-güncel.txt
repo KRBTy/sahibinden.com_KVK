@@ -1,4 +1,6 @@
- Kişisel Verilerin Korunması ve İşlenmesi Hakkında Aydınlatma Metni
+Kişisel Verilerin Korunması - sahibinden.com
+
+Kişisel Verilerin Korunması ve İşlenmesi Hakkında Aydınlatma Metni
 
 İşbu Kişisel Verilerin Korunması ve İşlenmesi Hakkında Aydınlatma Metni’nin (“Aydınlatma Metni”) amacı, Sahibinden Bilgi Teknolojileri Pazarlama ve Ticaret Anonim Şirketi (“Sahibinden” veya ”Şirketimiz”) tarafından yönetilmekte olan https://www.sahibinden.com/  adresinde yer alan internet sitesinin ve Sahibinden’in mobil uygulamasının, (“Portal”) kullanımı sırasında bireysel ve kurumsal kullanıcılarından ve/veya Portal’ı kullanan diğer üçüncü kişilerden (“Kullanıcı” ve/veya “Kullanıcılar”) elde edilen kişisel verilerin kullanımına ilişkin olarak 6698 sayılı Kişisel Verilerin Korunması Hakkında Kanun’un (“Kişisel Verilerin Korunması Kanunu”) 10. maddesi ile getirilen aydınlatma yükümlülüğünün yerine getirilmesidir.
 
@@ -357,17 +359,31 @@ Sahibinden, daha etkin bir şekilde çalışmak ve size en iyi deneyimi sunmak i
 
     www.sahibinden.com internet sitesi ve/veya mobil uygulama üzerinden çevrimiçi olarak tarafınızca doğrudan verilmesi,
 
+ 
+
     Sahibinden yetkilileri ile gerçekleştireceğiniz yüz yüze veya çevrimiçi görüşmeler esnasında ve/veya canlı yardım merkezi aracığıyla yapılan yazışmalar esnasında tarafınızca şahsen verilmesi ve/veya SMS, e-posta, çağrı merkezi ve diğer iletişim vasıtalarıyla sağlanması, kendi takdiriniz doğrultusunda Sahibinden anketlerinin doldurulması,
+
+ 
 
     Anlaşmalı ödeme kuruluşları tarafından sağlanması,
 
+ 
+
     Gayrimenkul danışman değerlendirme süreci kapsamında ilgili Kullanıcılar tarafından sağlanması,
+
+ 
 
     Yapay zeka destekli arama süreci kapsamında, yapay zeka asistanına tarafınızca şahsen sağlanması,
 
+ 
+
     Yenilenmiş ürün pazar yeri süreci kapsamında cihaz satan / satın alan kurumsal Kullanıcı firmalar ya da cihaz satan / satın alan bireysel Kullanıcılar tarafından sağlanması, teknik inceleme esnasında kullanılan kameralar aracılığıyla elde edilmesi,
 
+ 
+
     Sahibinden’in Portal’da sunduğu hizmet sırasında, belirli yazılım ya da teknolojik araçlar tarafından elde edilerek sağlanması,
+
+ 
 
     e-Devlet sistemi üzerinden sağlanması (Sahibinden’de ilan verirken mevzuat gereği zorunlu tutulan kimlik doğrulaması sürecinde elde edilen kişisel verileri ilgili kişisel veriler emlak ve vasıta alanlarında ilan verme, ilan düzenleme ve ilanı yeniden yayına alma aşamasında mevzuat gereği gerçekleştirilen kimlik doğrulama süreci ile gayrimenkul danışman değerlendirme sisteminde gerçekleştirilen kimlik doğrulama sürecinde e-Devlet tarafından kullanıcı bazında aktarılan tanımlayıcı numarası (GUID-Globally Unique Identifier Number) bilgisini kapsamaktadır).
 
